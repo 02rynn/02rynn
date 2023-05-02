@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeRin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeRin Github!&fontSize=90" />
 
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 <!--
 **02rynn/02rynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
