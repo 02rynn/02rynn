@@ -32,5 +32,8 @@
 	<a href="https://02rynn-lap.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Blogger&logoColor=white" />
 	</a>	
+	<a href="https://www.notion.so/Frontend-Developer-5bedd621bd5e47efbed7e544bcd4c341">
+		<img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logoColor=white" />
+	</a>
 </div>
 
